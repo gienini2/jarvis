@@ -1,0 +1,29 @@
+jarvis
+│
+├─ core
+│   ├─ orchestrator.py
+│   └─ task_manager.py
+│
+├─ router
+│   ├─ model_router.py
+│   └─ task_classifier.py
+│
+├─ memory
+│   ├─ memory_store.py
+│   ├─ embeddings.py
+│   └─ retrieval.py
+│
+├─ ingest
+│   ├─ chat_parser.py
+│   └─ conversation_loader.py
+│
+├─ agents
+│   ├─ openai_agent.py
+│   ├─ anthropic_agent.py
+│   ├─ perplexity_agent.py
+│   └─ gemini_agent.py
+│
+└─ interfaces
+    ├─ telegram_bot.py
+    ├─ cli.py
+    └─ api_server.py

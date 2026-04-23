@@ -1,0 +1,13 @@
+usuario
+↓
+interface
+↓
+orchestrator
+↓
+task classifier
+↓
+router
+↓
+modelo IA
+↓
+memory store
